@@ -1,11 +1,11 @@
-# Recom: A Movie Recommendation System
+# Fikson: A Movie Recommendation System
 
-Recom is a machine learning-powered movie recommendation system designed to provide users with personalized movie suggestions based on their preferences. By utilizing advanced content-based filtering techniques and state-of-the-art tools, Recom ensures precise and relevant recommendations through a seamless and interactive interface.
+Fikson is a machine learning-powered movie recommendation system designed to provide users with personalized movie suggestions based on their preferences. By utilizing advanced content-based filtering techniques and state-of-the-art tools, Fikson ensures precise and relevant recommendations through a seamless and interactive interface.
 
 ## System Architecture
 
 ### 1. Machine Learning Model
-Recom employs a **content-based filtering algorithm** that analyzes features such as genres, directors, actors, and plot summaries. Using **TF-IDF vectorization**, these features are transformed into numerical vectors, enabling precise similarity calculations via **cosine similarity**. This ensures the model identifies movies that closely match user preferences.
+Fikson employs a **content-based filtering algorithm** that analyzes features such as genres, directors, actors, and plot summaries. Using **TF-IDF vectorization**, these features are transformed into numerical vectors, enabling precise similarity calculations via **cosine similarity**. This ensures the model identifies movies that closely match user preferences.
 
 Key components:
 - **Feature Extraction**: Converts raw movie metadata into structured numerical data.
@@ -50,8 +50,8 @@ model = pickle.load(open('model.pkl', 'rb'))
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/recom.git
-   cd recom
+   git clone https://github.com/your-repo/Fikson.git
+   cd Fikson
    ```
 2. Install dependencies:
    ```bash
@@ -82,5 +82,5 @@ For questions, feedback, or collaboration opportunities:
 
 ---
 
-Recom demonstrates the potential of combining machine learning with web technologies to solve real-world problems. Explore the project, and feel free to contribute or adapt it to your needs!
+Fikson demonstrates the potential of combining machine learning with web technologies to solve real-world problems. Explore the project, and feel free to contribute or adapt it to your needs!
 
