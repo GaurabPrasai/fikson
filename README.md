@@ -61,7 +61,7 @@ model = pickle.load(open('model.pkl', 'rb'))
    ```bash
    streamlit run app.py
    ```
-4. Open your browser and navigate to `http://localhost:8501`.
+4. Open your browser and navigate to `http://localhost:8501`
 
 ## Future Roadmap
 
