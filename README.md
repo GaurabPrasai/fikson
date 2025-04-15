@@ -51,7 +51,7 @@ model = pickle.load(open('model.pkl', 'rb'))
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/Fikson.git
-   cd Fikson
+   cd fikson
    ```
 2. Install dependencies:
    ```bash
