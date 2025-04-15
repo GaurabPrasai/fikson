@@ -77,7 +77,7 @@ We welcome contributions! To get started:
 
 ## Contact
 For questions, feedback, or collaboration opportunities:
-- **Email**: GaurabPrasaigp@gmail.com
+- **Email**: Gaurabprasaigp@gmail.com
 - **GitHub**: github.com/gaurabprasai
 
 ---
